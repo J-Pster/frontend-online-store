@@ -1,0 +1,8 @@
+.borda {
+  border: 1px solid black;
+}
+
+.filtros {
+  display: flex;
+  flex-flow: column nowrap;
+}
